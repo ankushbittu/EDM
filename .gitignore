@@ -1,5 +1,4 @@
 # Ignore Python virtual environment
-
-venv/
-app/_pycache_
+backend/venv
+backend/app/_pycache_
 .env
